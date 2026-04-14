@@ -1,0 +1,4 @@
+[core]
+    remote = mydvcstore
+['remote "mydvcstore"']
+    url = s3://dvc-bucket-project-s3
